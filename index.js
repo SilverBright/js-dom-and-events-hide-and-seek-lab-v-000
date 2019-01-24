@@ -1,3 +1,3 @@
-function getFirstSelector('heah') {
+function getFirstSelector('head') {
   return 
 }
